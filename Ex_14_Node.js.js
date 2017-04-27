@@ -19,4 +19,4 @@ fs.open('./Ex_14_text.txt','r',function(err,fd){
              console.log('Ex_14_text.txt 파일을 열고 읽기 완료');
          });
      });
-});
+}); 
